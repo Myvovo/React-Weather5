@@ -1,0 +1,68 @@
+p1 {
+  font-size: 30px;
+  font-weight: bolder;
+  color: grey;
+}
+div.top {
+  font-size: 18px;
+}
+input {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+div.description {
+  text-align: right;
+  color: gray;
+  position: relative;
+}
+
+div.cities {
+  color: blue;
+  margin-top: 40px;
+}
+
+div.cities:hover {
+  text-decoration: underline;
+  transition: all 200ms ease-in-out;
+  cursor: pointer;
+}
+
+div.currentday {
+  color: gray;
+}
+div.sun {
+  color: gray;
+}
+span {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: "Mukta", sans-serif;
+}
+
+span.days {
+  font-size: 20px;
+  font-weight: bolder;
+  color: grey;
+}
+div.weather {
+  font-size: 24px;
+}
+div.degrees {
+  font-size: 20px;
+  color: grey;
+}
+
+div.weatherapp {
+  border: 2px solid #017bfe;
+  border-radius: 10px;
+}
+
+span.units {
+  position: relative;
+  top: -34px;
+
+  font-size: 1.5rem;
+  font-weight: 400 px;
+  font-family: Arial, Helvetica, sans-serif;
+}
